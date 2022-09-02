@@ -4,7 +4,7 @@ Painotus backendissä ja frontti luotu visualisoimaan lopputuotetta.
 
 Frontendissä käytetty osittain valmista pohjaa, jota muokattu projektiin sopivaksi. 
 
-Käyetty SAM templatea, Reactia ja Aurora Clusteria. 
+Käyetty SAM templatea, Reactia ja Aurora Serverless Clusteria. 
 
 Projektin jäsenet:
 Nella Heikkilä
